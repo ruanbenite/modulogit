@@ -1,0 +1,5 @@
+senhas.txt
+
+
+#Pessoal, no windows não dá para criar um arquivo sem nome, então crie um arquivo "tipo.gitignore" e depois no prompt de comndo digite: 
+#ren tipo.gitignore  .gitignore
